@@ -37,7 +37,7 @@ function startIntroTyping() {
 function typerStartTyping(typer) {
   typer.reset();
 
-  let text = ['professional'];
+  let text = ['Sad'];
 
   text.forEach(function (language, index) {
     typer.move(null);
